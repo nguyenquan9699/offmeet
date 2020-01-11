@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081325017763",
+    "firebase_url": "https://offmeet-2a296.firebaseio.com",
+    "project_id": "offmeet-2a296",
+    "storage_bucket": "offmeet-2a296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081325017763:android:646578058fc52a79ab3d16",
+        "android_client_info": {
+          "package_name": "com.offmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081325017763-4hk4rj5p9e3eijg8cm7jmgl3jqkim0vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offmeet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1081325017763-h1p6tsv5qt1fa4vintlo5dc1ls7d6glv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIjXgvyzXDDydGpzEQuPJ9QKPZDZr7Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081325017763-h1p6tsv5qt1fa4vintlo5dc1ls7d6glv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
